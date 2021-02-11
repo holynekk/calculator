@@ -1,12 +1,17 @@
 body{
-    background-color: lightsalmon;
+    background-color: rgb(270, 270, 10);
     font-family: 'Lexend Mega', sans-serif;
     font-size: 1.5rem;
 }
 
 h1{
-    font-family: 'Bungee', cursive;
-    font-size: 30px;
+    font-family: 'Audiowide', cursive;
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+p{
+    margin-right: 8px;
 }
 
 .main-container{
